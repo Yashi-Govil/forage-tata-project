@@ -23,4 +23,7 @@ Deliver a business-ready dashboard for Tata’s CEO and CMO as part of the Forag
 
 > The presentation walks through the problem, stakeholder questions, insights, and dashboard features.
 
+##  Task Breakdown
+
+All project tasks are tracked in the [Tata Forage GitHub Project Board](https://github.com/yourusername/forage-tata-project/projects/1).
 
