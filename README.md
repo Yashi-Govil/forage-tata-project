@@ -19,7 +19,7 @@ Deliver a business-ready dashboard for Tata’s CEO and CMO as part of the Forag
 - Dataset and visuals (available on request)
 
 ##  Final Presentation (Video)
-▶️ [Watch the Presentation](https://drive.google.com/file/d/1qm9sgLdF7Ny6c3wP-pgmMX5aPsBv0Oz2/view?usp=sharing)
+▶️ [Watch the Presentation](https://drive.google.com/file/d/1X7BT65kNKQ6l3QThyTSmXcz1GWmJg1fS/view?usp=sharing)
 
 > The presentation walks through the problem, stakeholder questions, insights, and dashboard features.
 
